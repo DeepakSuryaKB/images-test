@@ -1,0 +1,7 @@
+{
+  "name": "images-lazy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

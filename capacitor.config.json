@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "images-lazy",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
